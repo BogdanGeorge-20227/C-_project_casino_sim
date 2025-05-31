@@ -1,0 +1,41 @@
+employee 1:
+0
+0
+John Granger
+500
+
+employee 2:
+0
+0
+Eric Doberman
+700
+
+employee 3:
+0
+0
+Frederica Ducheyne
+1000
+
+employee 4:
+0
+0
+Ginger Green
+369
+
+employee 5:
+0
+0
+Jack Dogswamp
+800
+
+employee 6:
+0
+0
+Holly Cooljeans
+1200
+
+employee 7:
+0
+0
+Greg Contoire
+2000

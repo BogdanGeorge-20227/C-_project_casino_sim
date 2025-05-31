@@ -1,0 +1,46 @@
+client 1:
+50000
+5000
+Orion Soupier
+0
+@%
+
+client 2:
+2000000
+100000
+Octavian Flannagan
+0
+20
+@%
+
+client 3:
+300000
+50000
+Liv Dressington
+0
+@%
+
+client 4:
+100000
+100000
+Pauli Merimies
+0
+@%
+
+client 5:
+100000
+3000
+Gordon Jones
+0
+@%
+
+client 6:
+1000000
+500000
+Fath Celand
+0
+30
+@%
+end
+
+

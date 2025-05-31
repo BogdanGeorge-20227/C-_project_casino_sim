@@ -1,0 +1,92 @@
+news danger:
+There is a notable up-tick in police activity around the Vice Lane. The Pristinia Review reached out to the Harbour District Police Department for comment. They have not replied.
+
+news very danger:
+"Hey there, you've got a problem." Jim looks concerned. He never looks concerned. "You've gotten reckless. It's time you slow down lest you end up in the slammer." Before you have time to respond, he turns around and walks away.
+
+news 1:
+Vaticia's Secretary of Defence has vowed to raise an army "that could conquer the Southern hordes". Should we be concerned? The Pristinian government seems to think so, as the federal tax has been raised from 10% to 15% to support extra military spending.
+
+news 2:
+Little puppy heroically saves family of four from burning building. It sounds too good to be real but it is! This good boy has done such an incredible job, bringing much shame to local fire fighters. Many are wondering, why do we pay these fire fighters so much?
+
+news 3:
+Hugely successful and competitive video game "Blue Candle" opens its latest professional league here in Pristinia. This new league will be called "BCPL" [Blue Candle Pristinia League] and has us here at The Pristinia Review very excited. 
+
+news 4:
+Copper Family Warehouse raided by police in the Pristinian Northern District. According to experts, the Copper Family criminal organisation may have hit a major bump in the road as their territory seems to have shrunk significantly. Will the Tin Gang truly wipe them out of existence?
+
+news 5:
+Johnny Richards to star in new installment within the hugely succesful "How I made my first million!" show. The episode will be airing the day after tomorrow at 8pm on PRC.
+
+news 6:
+Have you ever wanted to get rich? To really get out of whatever slum you call your dwelling? Look no further! The Pristinia Lottery's jackpot for next week is the largest prize pool to date, being 200 million!.
+
+news 7:
+Massive crowd outside the Pristinia Parliamentary Building pushing for defunding of the fire department. Among the crowd we see those carrying signs such as "A dog could do better!", "Maybe humans aren't so superior!", "Fund shelters instead!" among many others. To the crowd's dismay, experts are worried.
+
+news 8:
+Whether you are a fan or not, we here at The Pristinia Review believe that near nobody expected Johnny Richards to be this open about how he came upon his wealth... We (and the government too probably) were rather confused when the movie star admitted to setting his own orphanage ablaze for a big insurance pay-out.
+
+news 9:
+Our beloved head of state has deemed it necessary to raise the federal tax rate a further 5% from the raise we saw last week. "After all, how else is the president supposed to afford his newest addition to his private jet collection?" a spokesperson said during a recent press conference.
+
+news 10:
+After much anticipation, BCPL is set to have its first show-match in exactly one week's time from today! The team that experts claim to be favourites to win the cup, Furious Gamers (shorthand FG) will be versing the Harbour District Middle School Blue Candle team. Stay tuned for updates soon!
+
+news 11:
+Bloodshed has found its way onto the streets of Northern Pristinia as the Copper Family and Tin Gang faced off, say officials. Bodies littered the streets after the bloody battle which played out sometime in the early hours of the morning. "Good," Sheriff Goodman proclaims "Let the scum deal with themselves."
+
+news 12:
+Breaking! Silly little duck was seen today walking down a busy park road, gently biting citizen's ankles as a form of asking for bread. What a sweet little guy... Oh, I love duckies. They're just so cute! Little baby with the big stompers was just... Walking around, being a silly little fella! Sorry. Got too carried away there.
+
+news 13:
+Have you ever wanted to get rich? Well, tough luck! As the winner of the latest Pristinia Lottery has been picked and has collected her prize. But who is this mysterious woman? She came to collect her money wearing a seagull mask, so it's hard to tell who she really is. Maybe its someone you know?
+
+news 14:
+"Defunding the fire department would put the city at great risk!" fire hazard safety specialist James Donahue proclaims. Crowds seem unconvinced, now chanting "Down with James!" through the blocked off city streets.
+
+news 15:
+Southern Vatician accented man spotted at Mercurion restaurant, speaking perfect Mercurion with a broken accent. "Je ne comprends pas comment c'est possible", the owner says, commenting on the man's ability to sound Vatician, despite speaking another language.
+
+news 16:
+Local IT sector workers once again required to crunch in order to meet famous government project deadline. One key figure in the development department, who asked to remain anonymous, commented: "From the start we had some doubts about the scheduling of the whole thing during the holiday season, now we see how boned we are... Oh well, at least we're getting free pizza these long days"
+
+news 17:
+With the first showmatch of the BCPL just ahead of us, we here at The Pristinia Review were curious, who are the stars that are about to take the stage? We are here to help you find out! Today with us, special guest stickyfingers445! So Mr. Fingers, how do you stay so far ahead of the competition? "Uhh... Yeah I guess I was just born lucky and I'm just better than everyone else. It's not something I can really change anything about..." Wow! So profound!
+
+news 18:
+Furious Gamers reign supreme according to analysts after their convincing defeat over Harbour District Middle School's Blue Candle team. After what can only be described as a total annihilation of the opposition, spectators were left in awe of FG's performance. What a spectacle!
+
+news 19:
+Do you like eating soap, but get stomachaches afterwards because, well, you're not meant to be eating it? Fear not, dear citizen of Pristinia! For only double the price of a regular bar of soap, we here at Let Me Eat Soap LLC have come up with a new line of safe-to-digest, edible soap that won't have you crying for hours on the toilet! (We are not liable for any side effects.)
+
+news 20:
+After many days of loud, disruptive protest, the parliament finally gave it. The local fire department has officially been defunded in it's entirety, with all the firemen laid off. The funding has been re-allocated to the "Fire Brigade Dog Shelter" company, which aims to replace all duties previously held by the local fire department.
+
+news 21:
+Furious fan exposes Furious Gamers' stickyfingers445 for cheating to gain edge over Harbour District Middle School's Blue Candle team. "[...] worst case I've seen in years." fan says. Mr. Fingers' actions have left team mates and fans in shock. We asked one of his team mates for comment: "I mean, y'all lowkey just let him plug in his USB and didn't bother checking it just because he said it was [REDACTED]. Oh... I'm not meant to say that on TV? Sorry."
+
+news 22:
+Breaking! Space disk crashes into the roof of a family home in Southern Hepharia, leaving family of four annoyed over the massive hole they now have to deal with. "As if I'm going to let these little glerb globs get taken from me after they put a hole in my roof. Heck no! They're WORKING to earn some MONEY  like a real Hepharian, and I don't care about no slavery talk. They can glib glub me and be green and stinky and complain all they want, but those green [REDACTED] will not leave until they fix my [REDACTED] roof!", the father of the family, Mikko, exclaims. This has sparked controversy online, with netizens commenting on the language used to describe the little green creates as being, quote, "quite mean, because he didn't have to call them stinky".
+
+news 23:
+Nixon Samuel spotted going for coffee with Amanda Stronghart. Are they the latest hot item from the Theatre Boulevard? Insiders seem to believe so.
+
+news 24:
+"Vaticia is on our border, so we need to prepare for the worst" Former General Grant Croney says. "Be sure to stock up on some basic supplies like water, and hygene products, because you can't be too safe when at the whims of that corrupt dirtbag we all like to call a president." For context Former General Croney was recently fired by the presidents cabinet.
+
+news 25:
+Embarrassed local man comes forward with his story. "You guys remember that puppy that saved the family from the burning building? Well... I don't really know how to put this, but... That was never a puppy. It was just me, in a puppy costume... So uhh... Yeah sorry."
+
+news 26:
+Chaos erupts downtown as the news of the fake puppy-man spread. Several buildings were set ablaze as Fire Brigade Dog Shelter puppies stand by helplessly staring at the sight of the bright lights.
+
+news 27:
+President decides to raise tax to 25% to allow extra budget to train new fire fighters. "This is a matter of national security! We must have a functional fire brigade!"
+
+news 28:
+"Told you so." Thus James Donahue, fire hazard safety specialist.
+
+news 29:
+Anonymous sources have come forward revealing the possible merging of the Copper Family and the Tin Gang, forming the Brass Family Gang, leaving authorities worried at the threat they might pose. Experts believe this newly formed Brass Family Gang may cause quite a stir, not only in Pristinia, where both crime families were originally formed, but also internationally.

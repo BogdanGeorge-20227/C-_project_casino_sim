@@ -1,0 +1,58 @@
+client 1 dialogue 1:
+Yo yo yo miss D, I've got 40 chips yo! Whatcha pla... Oh... Sorry... Yes ma'am, I'll put some respect on your name... yo...
+
+client 1 dialogue 2:
+Hello again ma'am, I hope fortune will be on my side a lil' more today than it was last time... Thank you for not banning me yet.
+
+client 1 dialogue 3:
+Hi ma'am, I hope you're having a wonderful today! Happy gamblin', am I right?
+
+
+client 2 dialogue 1:
+Flannagan's the name. Octavian Flannagan. Pleased to make your acquaintance.
+
+client 2 dialogue 2:
+Evening madam. I've quite a hefty chunk of pocket money to play with for the night, best make the most of it.
+
+client 2 dialogue 3:
+It brings me great pleasure to meet you again madame. I'll be sure to leave a hefty tip today.
+
+
+client 3 dialogue 1:
+Hi there! The names Liv, I work across the street from here! Always nice to see another lady in the industry isn't it?
+
+client 3 dialogue 2:
+Nice to see you still around. Y'know, many ladies don't tend to stick around too long in this line of work. What do you mean you own the place?
+
+client 3 dialogue 3:
+I'm happy you're still going strong! Y'know, us ladies need to stick together if we wanna make it in this industry! Glad to see you're doing well!
+
+
+client 4 dialogue 1:
+...
+
+client 4 dialogue 2:
+Nice decor...
+
+client 4 dialogue 3:
+I hope I win for a change...
+
+
+client 5 dialogue 1:
+I love finding places like this, they feel so niche and wonderful!
+
+client 5 dialogue 2:
+If I win big today I can take my wife and kids on a trip to Fruga soon!
+
+client 5 dialogue 3:
+My wife tells me she doesn't like how I'm never home, but you know what she doesn't get? This place is like home.
+
+client 6 dialogue 1:
+Stand ready for my arrival, dealer.
+
+client 6 dialogue 2:
+I am Fath, and I am your chance for some sweet backroom deals. I'll scratch your back and you do mine... We'll talk more another time. Let the games commence.
+
+client 6 dialogue 3:
+
+I am so lonely, miss... None of the guys want to talk to me, all of them hate me...
